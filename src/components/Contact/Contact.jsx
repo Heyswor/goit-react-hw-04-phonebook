@@ -27,4 +27,4 @@ export const Contact = ({ contact, deleteBtn }) => {
 Contact.propTypes = {
   contact: PropTypes.array.isRequired,
   deleteBtn: PropTypes.func.isRequired,
-}
+};
